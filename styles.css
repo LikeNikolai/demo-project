@@ -1,9 +1,19 @@
-body{
-    background-color: darkred;
+.par {
+  background-color: antiquewhite;
 }
-.par{
-    background-color: antiquewhite;
+.new-par {
+  background-color: blue;
 }
-.new-par{
-    background-color:blue;
+
+.common-rule {
+  list-style: upper-roman;
+  font-size: 20px;
+}
+
+.last-rule {
+  color: green;
+}
+
+.first-rule {
+  color: red;
 }
